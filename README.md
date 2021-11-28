@@ -1,2 +1,4 @@
 # PowerBI
-# This Sales.pbix is a few excel files I used from my data at school to clean and model for GitHub. 
+# This Sales.pbix file looks at company earnings between the employees, customers, and suppliers. 
+# Dashboard has 3+ charts illustrating company sales data. 
+# Cleaned up alot of the data from excel before making the dashboard.  
